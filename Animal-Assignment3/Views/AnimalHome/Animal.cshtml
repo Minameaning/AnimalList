@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Animal_Assignment3.Models.AnimalList>
+
+@{
+    ViewData["Title"] = "Animals";
+}
+
+<h1>Animals</h1>
+<br />
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Image</th>
+            <th>Species</th>
+            <th>Population</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var animal in Model)//animal represents each individual element (or item) within the Model, which is a collection of AnimalList objects.
+
+
+            {
+            <tr>
+                @*This displays the information of the current animal in the table cell.*@
+                <td>@animal.Name</td>
+                <td><img src="@Url.Content(animal.Image)" alt="@animal.Name" style="max-width: 300px;" /></td>
+                <td>@animal.Species</td>
+                <td>@animal.Population</td>
+            </tr>
+        }
+    </tbody>
+</table>

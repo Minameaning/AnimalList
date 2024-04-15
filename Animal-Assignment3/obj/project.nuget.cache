@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "otq22b41/XB8nrWDNeDrlM8yOL8QlKyqF6rAYtiaS5MZm66oyulJwUYFqgI0+4OUDa4TZfKyD/9PQ98/SXoSxQ==",
+  "success": true,
+  "projectFilePath": "/Users/minameaning/Minaworkspace/SEMESTER3/ASP dotNET/AnimalList/Animal-Assignment3/Animal-Assignment3.csproj",
+  "expectedPackageFiles": [
+    "/Users/minameaning/.nuget/packages/microsoft.entityframeworkcore/7.0.18/microsoft.entityframeworkcore.7.0.18.nupkg.sha512",
+    "/Users/minameaning/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.18/microsoft.entityframeworkcore.abstractions.7.0.18.nupkg.sha512",
+    "/Users/minameaning/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.18/microsoft.entityframeworkcore.analyzers.7.0.18.nupkg.sha512",
+    "/Users/minameaning/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/Users/minameaning/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/minameaning/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/minameaning/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/minameaning/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/minameaning/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/minameaning/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/minameaning/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/minameaning/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/minameaning/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/minameaning/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.14/microsoft.netcore.app.host.osx-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
